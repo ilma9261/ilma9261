@@ -20,10 +20,16 @@
 
 ---
 
+# 📈 Activity Graph:
+
+[![ilma9261's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilma9261&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=ilma9261&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true)<br/>
-![](https://streak-stats.demolab.com/?user=ilma9261&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=ilma9261&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true)
+![](https://streak-stats.demolab.com/?user=ilma9261&theme=dark&hide_border=false)
 
 ---
 
