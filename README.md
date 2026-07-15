@@ -28,7 +28,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=ilma9261&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true)
+![](https://github-readme-stats.shion.dev/api?username=ilma9261&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true&hide=contribs)
 ![](https://streak-stats.demolab.com/?user=ilma9261&theme=dark&hide_border=false)
 
 ---
