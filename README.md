@@ -11,7 +11,7 @@
       </ul>
     </td>
     <td align="center" valign="top" width="40%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Girl-Typing-on-Laptop.gif" width="100%" alt="Girl Coding GIF" />
+      <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
