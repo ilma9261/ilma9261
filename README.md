@@ -1,9 +1,20 @@
 # 💫 About Me:
 
-- 🚀 **Career Goal:** I am an aspiring Cloud Engineer with a strong foundation in frontend development, looking to bridge the gap between building applications and deploying them at scale.
-- 💻 **Currently Learning:** Cloud technologies, including **AWS**, **Docker**, **Linux**, and modern dev tools.
-- 🧠 **Focus:** Actively practicing Data Structures & Algorithms (DSA).
-- 🛠️ **Tech Stack:** Frontend Development & Cloud Infrastructure.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <ul>
+        <li>🚀 <b>Career Goal:</b> I am an aspiring Cloud Engineer with a strong foundation in frontend development, looking to bridge the gap between building applications and deploying them at scale.</li>
+        <li>💻 <b>Currently Learning:</b> Cloud technologies, including <b>AWS</b>, <b>Docker</b>, <b>Linux</b>, and modern dev tools.</li>
+        <li>🧠 <b>Focus:</b> Actively practicing Data Structures & Algorithms (DSA).</li>
+        <li>🛠️ <b>Tech Stack:</b> Frontend Development & Cloud Infrastructure.</li>
+      </ul>
+    </td>
+    <td align="center" valign="top" width="40%">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Assets/Girl-Typing-on-Laptop.gif" width="100%" alt="Girl Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
