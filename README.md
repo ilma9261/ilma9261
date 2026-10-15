@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Ilma+Naaz;Full-Stack+MERN+%26+AI+Developer;Passionate+Problem+Solver" alt="Typing Header" />
 
   <p align="center">
-    <b>Full-Stack MERN Developer</b> &nbsp;|&nbsp; <b>AI Enthusiast</b> &nbsp;|&nbsp; <b>DSA & Problem Solving</b>
+    <b>Full-Stack MERN Developer</b> &nbsp;|&nbsp; <b>AI and CLOUD Enthusiast</b> &nbsp;|&nbsp; <b>DSA & Problem Solving</b>
   </p>
 
   <!-- Connect Links -->
