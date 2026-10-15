@@ -1,58 +1,108 @@
 <div align="center">
-  <h1>Hi 👋, I'm Ilma Naaz</h1>
-  <h3>Full-Stack MERN & AI Developer</h3>
-  <p>Building scalable web applications and intelligent GenAI systems.</p>
-  
-  <p>
-    <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:ilma.naaz005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+  <!-- Header Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%90%8B%2C+I'm+Ilma+Naaz;Full-Stack+MERN+%26+AI+Developer;DSA+%26+Problem+Solving+Enthusiast" alt="Typing Header" />
+
+  <p align="center">
+    <b>Full-Stack MERN Developer</b> &nbsp;|&nbsp; <b>Generative AI & RAG Engineer</b> &nbsp;|&nbsp; <b>DSA Specialist</b>
   </p>
+
+  <!-- Connect Links -->
+  <p align="center">
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:ilma.naaz005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  </p>
+
 </div>
 
 ---
 
-## 💫 About Me
+### ⚡ About Me
 
-- 🚀 **Role:** Full-Stack MERN & Generative AI Developer.
-- 💻 **Core Focus:** Building high-performance MERN stack web applications and integrating advanced **RAG architectures**, **LLMs**, and autonomous AI agents.
-- 🧠 **Problem Solving:** Actively practicing Data Structures & Algorithms (DSA) in C++ and Python.
-- 🛠️ **Tech Focus:** End-to-end full-stack development, vector search, and modern web frameworks.
-
----
-
-## 💻 Tech Stack & Tools
-
-### 🌐 Frontend & Backend (MERN)
-![React](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 AI, LLMs & Vector Systems
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-111827?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-Chroma%20%2F%20Pinecone-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLM-OpenAI%20%2F%20Claude%20%2F%20Llama-000000?style=for-the-badge&logo=meta&logoColor=white)
-
-### 🗄️ Databases & Languages
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%2F%20MySQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+- 🧠 **Primary Focus:** Actively mastering **Data Structures & Algorithms (DSA)** with a heavy focus on problem-solving in **C++** and **Python**.
+- 🎯 **Platform Activity:** Consistently solving algorithmic problems on **LeetCode** and **GeeksforGeeks**.
+- 🚀 **Full-Stack & AI:** Building scalable **MERN** applications and engineering **RAG (Retrieval-Augmented Generation)** architectures using **LangChain** and **LangGraph**.
+- ⚙️ **Architecture & DevOps:** Designing systems with **System Design** principles and deploying containerized pipelines using **Docker, AWS,** and **CI/CD**.
 
 ---
 
-## 📈 Activity Graph
-
-[![ilma9261's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilma9261&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📊 GitHub Stats
+### 🧩 Problem Solving & Competitive Programming
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ilma9261&theme=dark&hide_border=false" alt
+  <a href="https://leetcode.com">
+    <img src="https://img.shields.io/badge/LeetCode-Practicing_Daily-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://geeksforgeeks.org">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 💻 Tech Stack & Capabilities
+
+<div align="center">
+
+#### 🚀 **Core & Frontend**
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/>
+
+#### ⚙️ **Backend & Databases**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<br/>
+
+#### 🤖 **AI, Vector Search & LLMs**
+<img src="https://img.shields.io/badge/RAG_Architecture-111827?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-FF4F00?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_DB-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=meta&logoColor=white" />
+
+<br/>
+
+#### ☁️ **DevOps, Cloud & Architecture**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+
+<br/>
+
+#### 🛠️ **Languages & Problem Solving**
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 GitHub & Activity Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilma9261&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilma9261&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ilma9261&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilma9261&color=007ACC&style=for-the-badge" alt="Profile Views" />
+</div>
